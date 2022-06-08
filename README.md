@@ -1,6 +1,7 @@
 # Современная автомойка в Санкт-Петербурге
 
 Дизайн - Сергей, tg: **@glumglam**
+
 Вёрстка - [https://ru39391.github.io/moika-lux.dist/](https://ru39391.github.io/moika-lux.dist/)
 
 ## Техническая информация:
